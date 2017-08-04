@@ -91,12 +91,20 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
+    - description: For a family of addicts
+      items:
+        - 12 lbs of coffee per month
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: Jumbo
+      price: '100'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: '???'
 ---
+
 
